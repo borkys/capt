@@ -1,8 +1,6 @@
 # capt
 
 ABOUT
--------------------------------
--------------------------------
 Take screenshots on Windows in background mode using an external tool (by default IrfanView) and save it sequentially named into a folder - no fancy stuff.
 
 
