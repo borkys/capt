@@ -7,7 +7,6 @@ Take screenshots on Windows in background mode using an external tool (by defaul
 
 INSTALLATION
 -------------------------------
--------------------------------
 1. Download a screenshot maker program
 The recommended IrfanView Portable can be found on the official download site: https://www.irfanview.com/download_sites.htm
 
@@ -18,7 +17,6 @@ The recommended IrfanView Portable can be found on the official download site: h
 2.2. Install the screen shot maker of your choice and edit CAPT_START.BAT - look for section >>> TAKE A SCREENSHOT <<< in the batch file - should be self explanatory
 
 USAGE
--------------------------------
 -------------------------------
 Start capturing in foreground	: Run capt_start.bat
 Start capturing in background	: Run capt_start_in_background.vbs
