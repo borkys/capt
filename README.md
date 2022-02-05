@@ -1,0 +1,2 @@
+# capt
+Background screenshot maker
