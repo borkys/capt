@@ -4,6 +4,7 @@ ABOUT
 -------------------------------
 Take screenshots on Windows in background mode using an external tool (by default IrfanView) and save it sequentially named into a folder - no fancy stuff.
 
+The program which is taking the screenshots does not appear to be running in the task manager - a use case may find everybody himself.
 
 INSTALLATION
 -------------------------------
@@ -18,6 +19,6 @@ The recommended IrfanView Portable can be found on the official download site: h
 
 USAGE
 -------------------------------
-- Start capturing in foreground	: Run capt_start.bat
-- Start capturing in background	: Run capt_start_in_background.vbs
-- Stop capturing			: Run capt_stop.bat
+- Start capturing in foreground : Run capt_start.bat
+- Start capturing in background : Run capt_start_in_background.vbs
+- Stop capturing : Run capt_stop.bat
