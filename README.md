@@ -5,7 +5,7 @@ ABOUT
 -------------------------------
 This script takes screenshots on Windows in background mode using an external tool (by default IrfanView) and saves it sequentially named into a folder - no fancy stuff.
 
-The program which is taking the screenshots does not appear to be running in the task manager - a use case may find everybody himself.
+The program which is taking the screenshots does not appear to be running in the task manager.
 
 INSTALLATION
 -------------------------------
