@@ -1,21 +1,24 @@
 # capt
+Sequential hidden screen capturing
 
 ABOUT
 -------------------------------
-Take screenshots on Windows in background mode using an external tool (by default IrfanView) and save it sequentially named into a folder - no fancy stuff.
+This script takes screenshots on Windows in background mode using an external tool (by default IrfanView) and saves it sequentially named into a folder - no fancy stuff.
 
 The program which is taking the screenshots does not appear to be running in the task manager - a use case may find everybody himself.
 
 INSTALLATION
 -------------------------------
-1. Download a screenshot maker program
+1. Download the files from this repository to a directory (e.g. c:\temp\capt)
+
+2. Download a screenshot maker program if necessary
 The recommended IrfanView Portable can be found on the official download site: https://www.irfanview.com/download_sites.htm
 
-2. Install the screenshot maker program
+3. Install the screenshot maker program if necessary
 
-   2.1. Recommended option: Install IrfanView portable into the same directory where the capt_start.bat is located. Normally it is just enough to press Next,Next...Next in the installer. If this option chosen - congrats making your life easy - you are ready to go.
+   3.1. Recommended option: Install IrfanView portable into the same directory where the capt_start.bat is located. Normally it is just enough to press Next,Agree,etc... in the installer. If this option's been chosen and the programm has been installe into .\IrfanViewPortable - you are ready to go.
 
-   2.2. Install the screen shot maker of your choice and edit CAPT_START.BAT - look for section >>> TAKE A SCREENSHOT <<< in the batch file - should be self explanatory
+   3.2. Install the screen shot maker of your choice and edit CAPT_START.BAT - look for section >>> TAKE A SCREENSHOT <<< in the batch file - should be self explanatory
 
 USAGE
 -------------------------------
