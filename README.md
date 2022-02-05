@@ -17,7 +17,7 @@ INSTALLATION
 
    3.1. Recommended option: Install IrfanView portable into the same directory where the capt_start.bat is located. Normally it is just enough to press Next,Agree,etc... in the installer. If this option's been chosen and the programm has been installe into .\IrfanViewPortable - you are ready to go.
 
-   3.2. Install the screen shot maker of your choice and edit CAPT_START.BAT - look for section >>> TAKE A SCREENSHOT <<< in the batch file - should be self explanatory
+   3.2. Install the screen shotmaker of your choice and edit CAPT_START.BAT - look for section >>> TAKE A SCREENSHOT <<< in the batch file - should be self explanatory
 
 USAGE
 -------------------------------
