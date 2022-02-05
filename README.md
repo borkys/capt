@@ -12,6 +12,7 @@ INSTALLATION
 1. Download the files from this repository into a directory (e.g. c:\temp\capt)
 
 2. Download a screenshot maker program if necessary
+3. 
 The recommended IrfanView Portable can be found on the official download site: https://www.irfanview.com/download_sites.htm
 
 3. Install the screenshot maker program if necessary
