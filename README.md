@@ -9,7 +9,7 @@ The program which is taking the screenshots does not appear to be running in the
 
 INSTALLATION
 -------------------------------
-1. Download the files from this repository to a directory (e.g. c:\temp\capt)
+1. Download the files from this repository into a directory (e.g. c:\temp\capt)
 
 2. Download a screenshot maker program if necessary
 The recommended IrfanView Portable can be found on the official download site: https://www.irfanview.com/download_sites.htm
